@@ -75,12 +75,12 @@ end
 function create_self( )
   self = {
     names = {
-    "solid",
-    "سلید",
-    "سولید",
-    "سعید",
-    "saeed",
-    "saeid"
+    "amir",
+    "امیر",
+    "هیچکس",
+    "امیرهیچکس",
+    "امیرصلیب",
+    "hichkas"
     },
     answers = {
     "وات؟ :/",
@@ -128,19 +128,19 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
+    sudo_users = {584827563},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Beyond Self Bot V3.0
-An fun bot based on BDReborn
+    info_text = [[》BHH Self Bot V3.0
+An fun bot based on BHH
 
 》https://github.com/BeyondTeam/BDSelf 
 
 》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer & Sponser《
-》@ToOfan ➣ Developer《
+》@Ch_iz ➣ Founder & Developer《
+》@Ch_iz ➣ Developer & Sponser《
+》@Ch_iz ➣ Developer《
 
 》Special thanks to :
 》@kuncen
